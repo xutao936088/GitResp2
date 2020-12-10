@@ -11,4 +11,5 @@ public class Student {
     private int age;
 	private double weight;
 	private double tall;
+	private double height;
 }
